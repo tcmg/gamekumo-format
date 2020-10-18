@@ -1,4 +1,4 @@
 # gamekumo-format
 A general purpose game project description format. Purely JSON-based. Created by @tcmg.
 
-See Examples for samples.
+See 'examples' folder for reference.
