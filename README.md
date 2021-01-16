@@ -20,7 +20,7 @@ Finally, another key element of the GameKumo format is that objects may optional
 
 Below is an example that shows the overall structure of a project in a GameKumo project. The black lines denote parent-child relationships. While the blue dash-dotted lines denote inheritance relationships.
 
-![GameKumo object relationship diagram](https://github.com/tcmg/gamekumo-format/blob/master/images/overview.png?raw=true)
+![GameKumo object relationship diagram](https://github.com/tcmg/gamekumo-format/blob/main/images/overview.png?raw=true)
 
 Here is an example of the structure of an object:
 
