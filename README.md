@@ -175,3 +175,39 @@ Other object types:
 * layer-reference
 * behaviour-reference
 * texture-reference
+
+## Short Names
+
+All structural parts of the GameKumo format should be reducible to a shorter notation for reducing bloat in JSON. The following keys and attribute types can be replaced for size reduction:
+
+Core:
+* id: id
+* inherit: it
+* config: cg
+* children: cn
+
+Attribute internals:
+* type: t
+* value: v
+
+Attribute types:
+* string: s
+* integer: i
+* float: f
+* enum: e
+* boolean: b
+* class-reference: cr
+* instance-reference: ir
+* layout-reference: ltr
+* layer-reference: lrr
+* behaviour-reference: br
+* texture-reference: tr
+
+Children types:
+* classes: cs
+* instances: is
+* behaviours: bs
+* layouts: lts
+* layers: lrs
+* animations: as
+* textures: ts
