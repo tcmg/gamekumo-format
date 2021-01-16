@@ -1,0 +1,68 @@
+{
+    "game": {
+        "config": {
+            "name": { "type": "string", "value": "New Game" }
+        },
+        "children": {
+            "classes": {},
+            "layouts": {},
+            "behaviours": {},
+            "textures": {}
+        }
+    },
+    "class": {
+        "config": {
+            "name": { "type": "string", "value": "New Class" },
+            "width": { "type": "integer", "value": "" },
+            "height": { "type": "integer", "value": "" },
+            "z": { "type": "integer", "value": "" },
+            "image": { "type": "texture-reference", "value": "" }
+        },
+        "children": {
+            "behaviours": {},
+            "animations": {}
+        }
+    },
+    "layout": {
+        "config": {
+            "name": { "type": "string", "value": "New Layout" },
+            "width": { "type": "integer", "value": "1024" },
+            "height": { "type": "integer", "value": "1024" }
+        },
+        "children": {
+            "layers": {},
+            "behaviours": {}
+        }
+    },
+    "behaviour": {
+        "config": {
+            "name": { "type": "string", "value": "New Behaviour" }
+        }
+    },
+    "instance": {
+        "config": {
+            "x": { "type": "integer", "value": "" },
+            "y": { "type": "integer", "value": "" },
+            "z": { "type": "integer", "value": "" },
+            "angle": { "type": "integer", "value": "" }
+        },
+        "children": {
+            "behaviours": {}
+        }
+    },
+    "layer": {
+        "config": {
+            "name": { "type": "string", "value": "New Layer" },
+            "z": { "type": "integer", "value": "" }
+        },
+        "children": {
+            "instances": {}
+        }
+    },
+    "texture": {
+        "config": {
+            "name": { "type": "string", "value": "New Texture" },
+            "md5": { "type": "string", "value": "" }
+        }
+    }
+}
