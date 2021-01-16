@@ -3,14 +3,6 @@
       "mid":"18446744073709551615",
       "object":"game",
       "config":{
-         "customTemplates":{
-            "value":"{}",
-            "type":"json"
-         },
-         "encryption":{
-            "value":"",
-            "type":"directstring"
-         },
          "fitToScreen":{
             "value":"1",
             "type":"boolean"
@@ -30,50 +22,6 @@
          "iconSolid":{
             "value":"",
             "type":"textureId"
-         },
-         "iosBundleIdentifier":{
-            "value":"",
-            "type":"directstring"
-         },
-         "iosCloudIdentifier":{
-            "value":"",
-            "type":"directstring"
-         },
-         "iosDefault1024x768":{
-            "value":"",
-            "type":"textureId"
-         },
-         "iosDefault1136x640":{
-            "value":"",
-            "type":"textureId"
-         },
-         "iosDefault640x1136":{
-            "value":"",
-            "type":"textureId"
-         },
-         "iosDefault640x960":{
-            "value":"",
-            "type":"textureId"
-         },
-         "iosDefault768x1024":{
-            "value":"",
-            "type":"textureId"
-         },
-         "iosDefault960x640":{
-            "value":"",
-            "type":"textureId"
-         },
-         "iosFlurryKey":{
-            "value":"",
-            "type":"directstring"
-         },
-         "iosPrerenderedIcon":{
-            "value":"0",
-            "type":"boolean"
-         },
-         "iosUrlHandler":{
-            "value":"",
-            "type":"directstring"
          },
          "name":{
             "value":"Example Game",
@@ -4258,15 +4206,6 @@
             },
             "child_count":0
          }
-      ],
-      "layoutFilters":[
-         
-      ],
-      "customTemplates":[
-         
-      ],
-      "lineTypes":[
-         
       ]
    }
 }
