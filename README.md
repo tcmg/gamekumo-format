@@ -1,6 +1,6 @@
-# The GameKumo Format
+# GameKumo Format
 
-A general purpose game project description format. Purely JSON-based. Created by @kumobius.
+A general purpose game project description format. Purely JSON-based. Created by @tcmg.
 
 ## Overview
 
